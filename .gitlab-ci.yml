@@ -1,0 +1,9 @@
+pages:
+  stage: deploy
+  image: inseefrlab/onyxia-r-datascience:r4.3.2
+  script:
+    - quarto render slides/index.qmd
+    - mv slides public
+  artifacts:
+    paths:
+      - public

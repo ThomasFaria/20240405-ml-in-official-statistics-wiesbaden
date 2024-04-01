@@ -1,0 +1,66 @@
+---
+title: An open source data science platform to build production-grade machine learning projects
+author: "[**Romain Avouac**, **Thomas Faria**]{.orange}"
+date: 04/01/2024
+date-format: "DD/MM/YYYY"
+slide-number: true
+footer: |
+  An open source data science platform to build production-grade machine learning projects
+# uncomment for French presentations:
+#lang: fr-FR
+# for blind readers:
+slide-tone: false
+# for @olevitt:
+chalkboard: # press the B key to toggle chalkboard
+  theme: whiteboard
+# uncomment to use the multiplex mode:
+#multiplex: true
+format:
+  # pick the light mode (onyxia-revealjs) or the dark mode (onyxia-dark-revealjs)
+  onyxia-revealjs:
+  #onyxia-dark-revealjs:
+    output-file: index.html
+    incremental: true
+controls: true
+css: custom.css
+from: markdown+emoji
+---
+
+## Introduction
+
+- Data scientists @ Insee's labs
+
+- Like most NSOs, increasing use of big data sources and ML methods @ Insee
+
+- Much work on the methological side, but not much to formalize what a modern data science infrastructure for official statistics should look like 
+
+## Challenges
+
+- Limited resources of traditional IT infrastructures
+
+- Availability of flexible and scalable development environments
+
+- The "wall of production"
+
+## Autonomy is all you need
+
+- In the era of data science, IT must be a means of autonomization, not a constraint
+
+- Onyxia : making cloud technologies accessible to statisticians
+  - Reference platform for the one-stop-shop (AIML4OS WP3)
+
+- Goal of this talk : "retour d'expérience"
+  - How we devised Onyxia's principles 
+  - How it was instrumental in putting ML in production at Insee
+
+## Discussion
+
+- Autonomy has a price
+  - Large entry costs of cloud technologies for organizations
+  - Statisticians must adopt new development practices
+
+## Conclusion
+
+- In the era of data science, methodology and IT must come forward together
+
+- 
