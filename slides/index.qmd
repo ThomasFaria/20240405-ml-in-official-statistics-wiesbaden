@@ -1,5 +1,5 @@
 ---
-title: An open source data science platform to build production-grade machine learning projects
+title: An open source data science platform to build production-grade ML projects
 author: "[**Romain Avouac**, **Thomas Faria**]{.orange}"
 date: 04/01/2024
 date-format: "DD/MM/YYYY"
@@ -44,23 +44,37 @@ from: markdown+emoji
 
 ## Autonomy is all you need
 
-- In the era of data science, IT must be a means of autonomization, not a constraint
-
-- Onyxia : making cloud technologies accessible to statisticians
+- Onyxia : fostering autonomy through cloud-native technologies
   - Reference platform for the one-stop-shop (AIML4OS WP3)
 
-- Goal of this talk : "retour d'expérience"
-  - How we devised Onyxia's principles 
-  - How it was instrumental in putting ML in production at Insee
+- Goal of this talk : feedback of Insee
+  - How we made cloud-technologies accessible to statisticians
+  - How it was instrumental in putting ML in production
+
+## Making cloud-technologies accessible
+
+![](img/onyxia-components.png){fig-align="center"}
+
+## An extensive catalog of data science services
+
+![](img/onyxia-catalog.png){height="400" fig-align="center"}
+
+## Case-study : MLOps
 
 ## Discussion
 
-- Autonomy has a price
+- The price of autonomy
   - Large entry costs of cloud technologies for organizations
   - Statisticians must adopt new development practices
+
+- Organizational challenges
+  - Compartmentalization of skills
+  - Transitioning towards an pen-source governance
 
 ## Conclusion
 
 - In the era of data science, methodology and IT must come forward together
 
-- 
+- Onyxia ore freedom to deal with the organizational challenges
+
+- Test it !
