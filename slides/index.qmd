@@ -36,11 +36,17 @@ from: markdown+emoji
 
 ## Challenges
 
-- Limited resources of traditional IT infrastructures
+- Ability to [**scale computing resources**]{.orange}
+  - [**Distributed computing**]{.blue2}
+  - [**GPUs**]{.blue2}
 
-- Availability of flexible and scalable development environments
+- Provide [**flexible development environments**]{.orange}
+  - [**Deployment**]{.blue2} of applications
+  - [**Orchestratation**]{.blue2} of jobs
 
-- The "wall of production"
+- Building [**production-ready solutions**]{.orange}
+  - [**Automation**]{.blue2} tools
+  - [**Monitoring**]{.blue2} tools
 
 ## Autonomy is all you need
 
@@ -59,7 +65,6 @@ from: markdown+emoji
 
 ![](img/onyxia-catalog.png){height="400" fig-align="center"}
 
-
 ## Case-study : MLOps
 
 - New challenges with ML project : MLOps
@@ -68,8 +73,7 @@ from: markdown+emoji
 
 - Iterative/incremental approach used thanks to containerization (bricks)
 
-
-## Case-study : From training to deployment
+## From training to deployment
 
 - MLflow at core of our use case
 
@@ -79,14 +83,14 @@ from: markdown+emoji
 
 - Orchestration for training (Argo Workflows)
 
-## Case-study : Serving a ML model as an API
+## Serving a ML model as an API
 
 ![](img/api-datalab.png){fig-align="center"}
 
 - Horizontal scaling (replicas, reproducibility)
 - Orchestration (ArgoCD)
 
-## Case-study : Monitoring a ML model
+## Monitoring a ML model
 
 ![](img/monitoring-datalab.png){fig-align="center"}
 
@@ -94,7 +98,7 @@ from: markdown+emoji
 - Data drift / Concept drift 
 - Home made dashboard
 
-## Case-study : Quality control in production
+## Quality control in production
 
 ![](img/annotation-datalab.png){fig-align="center"}
 
@@ -111,11 +115,8 @@ from: markdown+emoji
   - [**Compartmentalization**]{.blue2} of skills
   - Transitioning towards an [**open-source governance**]{.blue2}
 
-## Conclusion
+## Test it !
 
-- A technical solution to foster [**autonomy**]{.orange}
-  - Freedom to deal with the [**organizational challenges**]{.blue2}
+- Open-source project : [GitHub {{< fa brands github >}}](https://github.com/InseeFrLab/onyxia)
 
-- [**Test it !**]{.orange}
-  - Open-innovation instance : [datalab.sspcloud.fr](https://datalab.sspcloud.fr/)
-  - Open-source project : [`Github` {{< fa brands github >}}](https://github.com/InseeFrLab/onyxia)
+- Open-innovation instance : [datalab.sspcloud.fr](https://datalab.sspcloud.fr/)
