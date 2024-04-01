@@ -103,18 +103,19 @@ from: markdown+emoji
 
 ## Discussion
 
-- The price of autonomy
-  - Large entry costs of cloud technologies for organizations
-  - Statisticians must adopt new development practices
+- The [**price of autonomy**]{.orange}
+  - [**Entry costs**]{.blue2} of cloud technologies for organizations
+  - Statisticians must adopt [**new development practices**]{.blue2}
 
-- Organizational challenges
-  - Compartmentalization of skills
-  - Transitioning towards an pen-source governance
+- [**Organizational challenges**]{.orange}
+  - [**Compartmentalization**]{.blue2} of skills
+  - Transitioning towards an [**open-source governance**]{.blue2}
 
 ## Conclusion
 
-- In the era of data science, methodology and IT must come forward together
+- A technical solution to foster [**autonomy**]{.orange}
+  - Freedom to deal with the [**organizational challenges**]{.blue2}
 
-- Onyxia ore freedom to deal with the organizational challenges
-
-- Test it !
+- [**Test it !**]{.orange}
+  - Open-innovation instance : [datalab.sspcloud.fr](https://datalab.sspcloud.fr/)
+  - Open-source project : [`Github` {{< fa brands github >}}](https://github.com/InseeFrLab/onyxia)
