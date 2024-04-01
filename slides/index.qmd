@@ -59,7 +59,47 @@ from: markdown+emoji
 
 ![](img/onyxia-catalog.png){height="400" fig-align="center"}
 
+
 ## Case-study : MLOps
+
+- New challenges with ML project : MLOps
+
+- Datalab enables autonomy from training to deployment
+
+- Iterative/incremental approach used thanks to containerization (bricks)
+
+
+## Case-study : From training to deployment
+
+- MLflow at core of our use case
+
+- Experiment tracking
+
+- Model registry
+
+- Orchestration for training (Argo Workflows)
+
+## Case-study : Serving a ML model as an API
+
+![](img/api-datalab.png){fig-align="center"}
+
+- Horizontal scaling (replicas, reproducibility)
+- Orchestration (ArgoCD)
+
+## Case-study : Monitoring a ML model
+
+![](img/monitoring-datalab.png){fig-align="center"}
+
+- Technical monitoring vs Methodological monitoring
+- Data drift / Concept drift 
+- Home made dashboard
+
+## Case-study : Quality control in production
+
+![](img/annotation-datalab.png){fig-align="center"}
+
+- Golden test dataset
+- Triggering model retraining
 
 ## Discussion
 
