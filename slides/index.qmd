@@ -36,7 +36,7 @@ from: markdown+emoji
   - No formalization of relevant [**computing environments**]{.blue2}
 
 - Statisticians are increasingly trained in [**data science**]{.orange}
-  - But limited by [**IT environments**]{.blue2}
+  - Innovation potential is limited by [**IT environments**]{.blue2}
 
 ## Common challenges
 
@@ -45,7 +45,7 @@ from: markdown+emoji
   - [**GPUs**]{.blue2}
 
 - Availability of [**development environments**]{.orange}
-  - [**Flexibility**]{.blue2} to experiment readily
+  - [**Flexibility**]{.blue2} to experiment
   - Fostering [**best development practices**]{.blue2}
 
 - Building [**production-ready solutions**]{.orange}
@@ -53,22 +53,29 @@ from: markdown+emoji
   - [**Orchestratation**]{.blue2} of jobs
   - [**Monitoring**]{.blue2} tools
 
-## Autonomy is all you need
+## Onyxia: innovation through autonomy
 
-- [**Onyxia**]{.orange} : fostering autonomy through cloud-native technologies
-  - Reference platform for the [**one-stop-shop (AIML4OS WP3)**]{.blue2}
+- An open-source project to build [**modern data science environments**]{.orange} for official statistics
+  - [**Cloud technologies**]{.blue2} give statisticians more [**autonomy**]{.blue2}
+  - [**Onyxia**]{.blue2} makes these technologies more [**accessible**]{.blue2}
+  - No [**vendor lock-in**]{.blue2} phenomenon
 
-- Goal of this talk : [**feedback**]{.orange} of Insee
-  - How we made [**cloud-technologies**]{.blue2} accessible to statisticians
-  - How it was instrumental in putting [**ML in production**]{.blue2}
+- Reference platform for the [**AIML4OS project (WP3)**]{.orange}
 
-## Making cloud-technologies accessible
+- [**Proceedings paper**]{.orange} : feedback of our [**innovation strategy**]{.orange}
+  - [**Case study**]{.blue2} : how we operationalize [**MLOps**]{.blue2} at Insee
 
+## Making cloud technologies accessible
+
+::: {layout="[[-1], [1], [-1]]"}
 ![](img/onyxia-components.png){fig-align="center"}
+:::
 
 ## An extensive catalog of data science services
 
-![](img/onyxia-catalog.png){height="400" fig-align="center"}
+::: {layout="[[-1], [1], [-1]]"}
+![](img/onyxia-catalog.png){fig-align="center"}
+:::
 
 ## Case-study : MLOps
 
