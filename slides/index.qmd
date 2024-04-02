@@ -1,6 +1,8 @@
 ---
 title: An open source data science platform to build production-grade ML projects
-author: "[**Romain Avouac**, **Thomas Faria**]{.orange}"
+author: 
+  - "[**Romain Avouac (Insee)**]{.orange}"
+  - "[**Thomas Faria (Insee)**]{.orange}"
 date: 04/05/2024
 date-format: "DD/MM/YYYY"
 slide-number: true
@@ -26,26 +28,29 @@ css: custom.css
 from: markdown+emoji
 ---
 
-## Introduction
+## Context
 
-- Data scientists @ Insee's labs
+- Potential of [**big data sources**]{.orange} and [**ML methods**]{.orange}
 
-- Like most NSOs, increasing use of big data sources and ML methods @ Insee
+- Most of the work on the [**methological side**]{.orange}
+  - No formalization of relevant [**computing environments**]{.blue2}
 
-- Much work on the methological side, but not much to formalize what a modern data science infrastructure for official statistics should look like 
+- Statisticians are increasingly trained in [**data science**]{.orange}
+  - But limited by [**IT environments**]{.blue2}
 
-## Challenges
+## Common challenges
 
 - Ability to [**scale computing resources**]{.orange}
   - [**Distributed computing**]{.blue2}
   - [**GPUs**]{.blue2}
 
-- Provide [**flexible development environments**]{.orange}
-  - [**Deployment**]{.blue2} of applications
-  - [**Orchestratation**]{.blue2} of jobs
+- Availability of [**development environments**]{.orange}
+  - [**Flexibility**]{.blue2} to experiment readily
+  - Fostering [**best development practices**]{.blue2}
 
 - Building [**production-ready solutions**]{.orange}
-  - [**Automation**]{.blue2} tools
+  - [**Deployment**]{.blue2} of applications
+  - [**Orchestratation**]{.blue2} of jobs
   - [**Monitoring**]{.blue2} tools
 
 ## Autonomy is all you need
