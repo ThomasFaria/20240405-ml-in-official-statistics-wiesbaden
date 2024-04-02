@@ -65,13 +65,17 @@ from: markdown+emoji
 - [**Proceedings paper**]{.orange} : feedback of our [**innovation strategy**]{.orange}
   - [**Case study**]{.blue2} : how we operationalize [**MLOps**]{.blue2} at Insee
 
-## Making cloud technologies accessible
+## Onyxia's core components
 
+::: {layout="[[-1], [1], [-1]]"}
 ![](img/onyxia-components.png){height="400" fig-align="center"}
+:::
 
-## An extensive catalog of data science services
+## An extensive catalog of services
 
+::: {layout="[[-1], [1], [-1]]"}
 ![](img/onyxia-catalog.png){height="400" fig-align="center"}
+:::
 
 ## Case-study : MLOps
 
