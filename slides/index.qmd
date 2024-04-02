@@ -68,13 +68,13 @@ from: markdown+emoji
 ## Onyxia's core components
 
 ::: {layout="[[-1], [1], [-1]]"}
-![](img/onyxia-components.png){height="400" fig-align="center"}
+![](img/onyxia-components.png){fig-align="center"}
 :::
 
 ## An extensive catalog of services
 
 ::: {layout="[[-1], [1], [-1]]"}
-![](img/onyxia-catalog.png){height="400" fig-align="center"}
+![](img/onyxia-catalog.png){fig-align="center"}
 :::
 
 ## Case-study : MLOps
