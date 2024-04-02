@@ -1,7 +1,7 @@
 ---
 title: An open source data science platform to build production-grade ML projects
 author: "[**Romain Avouac**, **Thomas Faria**]{.orange}"
-date: 04/01/2024
+date: 04/05/2024
 date-format: "DD/MM/YYYY"
 slide-number: true
 footer: |
@@ -50,12 +50,12 @@ from: markdown+emoji
 
 ## Autonomy is all you need
 
-- Onyxia : fostering autonomy through cloud-native technologies
-  - Reference platform for the one-stop-shop (AIML4OS WP3)
+- [**Onyxia**]{.orange} : fostering autonomy through cloud-native technologies
+  - Reference platform for the [**one-stop-shop (AIML4OS WP3)**]{.blue2}
 
-- Goal of this talk : feedback of Insee
-  - How we made cloud-technologies accessible to statisticians
-  - How it was instrumental in putting ML in production
+- Goal of this talk : [**feedback**]{.orange} of Insee
+  - How we made [**cloud-technologies**]{.blue2} accessible to statisticians
+  - How it was instrumental in putting [**ML in production**]{.blue2}
 
 ## Making cloud-technologies accessible
 
@@ -67,43 +67,48 @@ from: markdown+emoji
 
 ## Case-study : MLOps
 
-- New challenges with ML project : MLOps
+- Using ML methods for [**NACE classification**]{.orange} in production
 
-- Datalab enables autonomy from training to deployment
+- New challenges with ML project ➡️ [**MLOps**]{.orange}:
+  - [**Optimizing parameters**]{.blue2};
+  - [**Model versionning**]{.blue2};
+  - [**Model deployment**]{.blue2};
+  - [**Model monitoring**]{.blue2};
+  - [**Data annotation**]{.blue2}...
 
-- Iterative/incremental approach used thanks to containerization (bricks)
+- Datalab enables [**autonomy**]{.orange} from training to deployment
 
-## From training to deployment
+- Incremental approach used thanks to [**containerization**]{.orange} (bricks)
 
-- MLflow at core of our use case
+## Training and tracking a ML model
 
-- Experiment tracking
+![](img/mlflow-model-registry.png){fig-align="center"}
 
-- Model registry
+<!-- - MLflow as the cornerstone of the project
 
-- Orchestration for training (Argo Workflows)
+- Orchestration for training (Argo Workflows) -->
 
 ## Serving a ML model as an API
 
 ![](img/api-datalab.png){fig-align="center"}
 
-- Horizontal scaling (replicas, reproducibility)
-- Orchestration (ArgoCD)
+<!-- - Horizontal scaling (replicas, reproducibility)
+- Orchestration (ArgoCD) -->
 
 ## Monitoring a ML model
 
 ![](img/monitoring-datalab.png){fig-align="center"}
 
-- Technical monitoring vs Methodological monitoring
+<!-- - Technical monitoring vs Methodological monitoring
 - Data drift / Concept drift 
-- Home made dashboard
+- Home made dashboard -->
 
 ## Quality control in production
 
 ![](img/annotation-datalab.png){fig-align="center"}
 
-- Golden test dataset
-- Triggering model retraining
+<!-- - Golden test dataset
+- Triggering model retraining -->
 
 ## Discussion
 
