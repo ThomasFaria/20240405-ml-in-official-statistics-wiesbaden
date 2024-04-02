@@ -67,15 +67,11 @@ from: markdown+emoji
 
 ## Making cloud technologies accessible
 
-::: {layout="[[-1], [1], [-1]]"}
 ![](img/onyxia-components.png){fig-align="center"}
-:::
 
 ## An extensive catalog of data science services
 
-::: {layout="[[-1], [1], [-1]]"}
 ![](img/onyxia-catalog.png){fig-align="center"}
-:::
 
 ## Case-study : MLOps
 
