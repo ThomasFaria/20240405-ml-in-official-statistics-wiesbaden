@@ -84,7 +84,7 @@ from: markdown+emoji
   - [**Model monitoring**]{.blue2}
   - [**Data annotation**]{.blue2}...
 
-- Datalab enables [**autonomy**]{.orange} from training to deployment
+- Onyxia enables [**autonomy**]{.orange} from training to deployment
 
 - Incremental approach used thanks to [**containerization**]{.orange} (bricks)
 
