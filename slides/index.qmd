@@ -53,9 +53,9 @@ from: markdown+emoji
   - [**Orchestratation**]{.blue2} of jobs
   - [**Monitoring**]{.blue2} tools
 
-## Onyxia: fostering innovation through autonomy
+## Fostering innovation through autonomy
 
-- An open-source project to build [**modern data science environments**]{.orange} for official statistics
+- [**Onyxia**]{.orange}: an open-source project to build [**modern data science environments**]{.orange} for official statistics
   - [**Cloud technologies**]{.blue2} give statisticians more [**autonomy**]{.blue2}
   - [**Onyxia**]{.blue2} makes these technologies more [**accessible**]{.blue2}
   - No [**vendor lock-in**]{.blue2}
