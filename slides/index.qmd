@@ -1,32 +1,3 @@
----
-title: An open source data science platform to build production-grade ML projects
-author: 
-  - "[**Romain Avouac (Insee)**]{.orange}"
-  - "[**Thomas Faria (Insee)**]{.orange}"
-date: 04/05/2024
-date-format: "DD/MM/YYYY"
-slide-number: true
-footer: |
-  An open source data science platform to build production-grade machine learning projects
-# uncomment for French presentations:
-#lang: fr-FR
-# for blind readers:
-slide-tone: false
-# for @olevitt:
-chalkboard: # press the B key to toggle chalkboard
-  theme: whiteboard
-# uncomment to use the multiplex mode:
-#multiplex: true
-format:
-  # pick the light mode (onyxia-revealjs) or the dark mode (onyxia-dark-revealjs)
-  onyxia-revealjs:
-  #onyxia-dark-revealjs:
-    output-file: index.html
-    incremental: true
-controls: true
-css: custom.css
-from: markdown+emoji
----
 
 ## Context
 
