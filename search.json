@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "slides/index.html#context",
+    "href": "slides/index.html#context",
+    "title": "An open source data science platform to build production-grade ML projects",
+    "section": "Context",
+    "text": "Context\n\nPotential of big data sources and ML methods\nMost of the work on the methological side\n\nNo formalization of relevant computing environments\n\nStatisticians are increasingly trained in data science\n\nInnovation potential is limited by IT environments"
+  },
+  {
+    "objectID": "slides/index.html#common-challenges",
+    "href": "slides/index.html#common-challenges",
+    "title": "An open source data science platform to build production-grade ML projects",
+    "section": "Common challenges",
+    "text": "Common challenges\n\nAbility to scale computing resources\n\nDistributed computing\nGPUs\n\nAvailability of development environments\n\nFlexibility to experiment\nFostering best development practices\n\nBuilding production-ready solutions\n\nDeployment of applications\nOrchestratation of jobs\nMonitoring tools"
+  },
+  {
+    "objectID": "slides/index.html#fostering-innovation-through-autonomy",
+    "href": "slides/index.html#fostering-innovation-through-autonomy",
+    "title": "An open source data science platform to build production-grade ML projects",
+    "section": "Fostering innovation through autonomy",
+    "text": "Fostering innovation through autonomy\n\nOnyxia: an open-source project to build modern data science environments for official statistics\n\nCloud technologies give statisticians more autonomy\nOnyxia makes these technologies more accessible\nNo vendor lock-in\n\nReference platform for the AIML4OS project (WP3)\nFeedback of our innovation strategy\n\nCase study : how we operationalize MLOps at Insee"
+  },
+  {
+    "objectID": "slides/index.html#onyxias-core-components",
+    "href": "slides/index.html#onyxias-core-components",
+    "title": "An open source data science platform to build production-grade ML projects",
+    "section": "Onyxia’s core components",
+    "text": "Onyxia’s core components"
+  },
+  {
+    "objectID": "slides/index.html#an-extensive-catalog-of-services",
+    "href": "slides/index.html#an-extensive-catalog-of-services",
+    "title": "An open source data science platform to build production-grade ML projects",
+    "section": "An extensive catalog of services",
+    "text": "An extensive catalog of services"
+  },
+  {
+    "objectID": "slides/index.html#case-study-mlops",
+    "href": "slides/index.html#case-study-mlops",
+    "title": "An open source data science platform to build production-grade ML projects",
+    "section": "Case-study : MLOps",
+    "text": "Case-study : MLOps\n\nUsing ML methods for NACE classification in production\n\n\n\n\n\n\n\nOnyxia enables autonomy from training to deployment"
+  },
+  {
+    "objectID": "slides/index.html#training-and-tracking-a-ml-model",
+    "href": "slides/index.html#training-and-tracking-a-ml-model",
+    "title": "An open source data science platform to build production-grade ML projects",
+    "section": "Training and tracking a ML model",
+    "text": "Training and tracking a ML model"
+  },
+  {
+    "objectID": "slides/index.html#serving-a-ml-model-as-an-api",
+    "href": "slides/index.html#serving-a-ml-model-as-an-api",
+    "title": "An open source data science platform to build production-grade ML projects",
+    "section": "Serving a ML model as an API",
+    "text": "Serving a ML model as an API"
+  },
+  {
+    "objectID": "slides/index.html#monitoring-a-ml-model",
+    "href": "slides/index.html#monitoring-a-ml-model",
+    "title": "An open source data science platform to build production-grade ML projects",
+    "section": "Monitoring a ML model",
+    "text": "Monitoring a ML model"
+  },
+  {
+    "objectID": "slides/index.html#quality-control-in-production",
+    "href": "slides/index.html#quality-control-in-production",
+    "title": "An open source data science platform to build production-grade ML projects",
+    "section": "Quality control in production",
+    "text": "Quality control in production"
+  },
+  {
+    "objectID": "slides/index.html#discussion",
+    "href": "slides/index.html#discussion",
+    "title": "An open source data science platform to build production-grade ML projects",
+    "section": "Discussion",
+    "text": "Discussion\n\nThe price of autonomy\n\nEntry costs of cloud technologies for organizations\nStatisticians must adopt new development practices\n\nOrganizational challenges\n\nCompartmentalization of skills\nTransitioning towards an open-source governance"
+  },
+  {
+    "objectID": "slides/index.html#test-it",
+    "href": "slides/index.html#test-it",
+    "title": "An open source data science platform to build production-grade ML projects",
+    "section": "Test it !",
+    "text": "Test it !\n\nOpen-source project : GitHub \nOpen-innovation instance : datalab.sspcloud.fr\n\n\n\n\nAn open source data science platform to build production-grade machine learning projects"
+  }
+]
