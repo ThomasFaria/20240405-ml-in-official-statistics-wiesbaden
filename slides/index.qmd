@@ -58,11 +58,11 @@ from: markdown+emoji
 - An open-source project to build [**modern data science environments**]{.orange} for official statistics
   - [**Cloud technologies**]{.blue2} give statisticians more [**autonomy**]{.blue2}
   - [**Onyxia**]{.blue2} makes these technologies more [**accessible**]{.blue2}
-  - No [**vendor lock-in**]{.blue2} phenomenon
+  - No [**vendor lock-in**]{.blue2}
 
 - Reference platform for the [**AIML4OS project (WP3)**]{.orange}
 
-- [**Proceedings paper**]{.orange} : feedback of our [**innovation strategy**]{.orange}
+- [**Feedback**]{.orange} of our innovation strategy
   - [**Case study**]{.blue2} : how we operationalize [**MLOps**]{.blue2} at Insee
 
 ## Onyxia's core components
