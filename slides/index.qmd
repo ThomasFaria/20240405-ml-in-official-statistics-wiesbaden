@@ -77,16 +77,10 @@ from: markdown+emoji
 
 - Using ML methods for [**NACE classification**]{.orange} in production
 
-- New challenges with ML project ➡️ [**MLOps**]{.orange}:
-  - [**Optimizing parameters**]{.blue2}
-  - [**Model versionning**]{.blue2}
-  - [**Model deployment**]{.blue2}
-  - [**Model monitoring**]{.blue2}
-  - [**Data annotation**]{.blue2}...
+![](img/mlops-cycle.png){height="400" fig-align="center"}
 
 - Onyxia enables [**autonomy**]{.orange} from training to deployment
 
-- Incremental approach used thanks to [**containerization**]{.orange} (bricks)
 
 ## Training and tracking a ML model
 
